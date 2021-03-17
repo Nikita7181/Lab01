@@ -94,7 +94,7 @@ nikita@DESKTOP-VB3RC3D .../lab01 $ pwd
 
 7.Вывод в консоль все файлы, где упоминается последовательность `boost::asio`
 
-![](https://raw.githubusercontent.com/Nikita7181/Lab01/main/screenshots/any.PNG)
+![](https://raw.githubusercontent.com/Nikita7181/Lab01/main/screenshots/3.PNG)
 
 >Все не влезло
 
